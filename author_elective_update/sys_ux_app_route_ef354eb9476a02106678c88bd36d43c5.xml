@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="DELETE">
+        <app_config display_value="NeedIt Experience">077cad2447624e106678c88bd36d43fe</app_config>
+        <description/>
+        <extension_point/>
+        <fields>table</fields>
+        <icon/>
+        <name>Simple List</name>
+        <optional_parameters>listTitle,query,listView</optional_parameters>
+        <order>0</order>
+        <parent_macroponent display_value="UXR Base Experience Shell">76a83a645b122010b913030a1d81c780</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>simple-list</route_type>
+        <screen_type display_value="Simple List">23354eb9476a02106678c88bd36d43c2</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>narippon@outlook.com</sys_created_by>
+        <sys_created_on>2024-06-03 07:16:09</sys_created_on>
+        <sys_id>ef354eb9476a02106678c88bd36d43c5</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Simple List</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ux_app_route_ef354eb9476a02106678c88bd36d43c5</sys_update_name>
+        <sys_updated_by>narippon@outlook.com</sys_updated_by>
+        <sys_updated_on>2024-06-03 07:44:27</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="DELETE" query="documentkey=ef354eb9476a02106678c88bd36d43c5"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>2517d017db85e1d4387021c40596199b</instance_id>
+        <instance_name>dev151308</instance_name>
+        <name>sys_ux_app_route_ef354eb9476a02106678c88bd36d43c5</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route"><sys_ux_app_route action="INSERT_OR_UPDATE"><app_config display_value="NeedIt Experience">077cad2447624e106678c88bd36d43fe</app_config><description/><extension_point/><fields>table</fields><icon/><name>Simple List</name><optional_parameters>listTitle,query,listView</optional_parameters><order>0</order><parent_macroponent display_value="UXR Base Experience Shell">76a83a645b122010b913030a1d81c780</parent_macroponent><parent_macroponent_composition_element_id/><route_type>simple-list</route_type><screen_type display_value="Simple List">23354eb9476a02106678c88bd36d43c2</screen_type><sys_class_name>sys_ux_app_route</sys_class_name><sys_created_by>narippon@outlook.com</sys_created_by><sys_created_on>2024-06-03 07:16:09</sys_created_on><sys_id>ef354eb9476a02106678c88bd36d43c5</sys_id><sys_mod_count>3</sys_mod_count><sys_name>Simple List</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ux_app_route_ef354eb9476a02106678c88bd36d43c5</sys_update_name><sys_updated_by>narippon@outlook.com</sys_updated_by><sys_updated_on>2024-06-03 07:44:27</sys_updated_on></sys_ux_app_route><sys_translated_text action="delete_multiple" query="documentkey=ef354eb9476a02106678c88bd36d43c5"/></record_update>]]></payload>
+        <payload_hash>391145338</payload_hash>
+        <record_name>Simple List</record_name>
+        <reverted_from/>
+        <source>38dae56047624e106678c88bd36d4312</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>narippon@outlook.com</sys_created_by>
+        <sys_created_on>2024-06-03 07:44:28</sys_created_on>
+        <sys_id>0abb0a3547aa02106678c88bd36d439a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18fdd0e877d0000001</sys_recorded_at>
+        <sys_updated_by>narippon@outlook.com</sys_updated_by>
+        <sys_updated_on>2024-06-03 07:44:28</sys_updated_on>
+        <type>UX App Route</type>
+        <update_guid>8ebb0a35caaa02105303221ccb445b99</update_guid>
+        <update_guid_history>8ebb0a35caaa02105303221ccb445b99:391145338,cb2bcab119aa02106e252980a679c120:1915567461,a08a8ef18aaa021013332278359efce4:-1109292102,eb354eb9e26a0210e8dbd2b71a7b1dc7:766924899</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>narippon@outlook.com</sys_created_by>
+        <sys_created_on>2024-06-03 07:46:09</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_app_route">sys_ux_app_route</sys_db_object>
+        <sys_id>31d54bbf2d1a4218b41b8a150109bca4</sys_id>
+        <sys_metadata>ef354eb9476a02106678c88bd36d43c5</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Simple List</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ux_app_route_ef354eb9476a02106678c88bd36d43c5</sys_update_name>
+        <sys_update_version display_value="sys_ux_app_route_ef354eb9476a02106678c88bd36d43c5">0abb0a3547aa02106678c88bd36d439a</sys_update_version>
+        <sys_updated_by>narippon@outlook.com</sys_updated_by>
+        <sys_updated_on>2024-06-03 07:46:09</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

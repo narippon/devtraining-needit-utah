@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_uib_screen_test_values">
+    <sys_uib_screen_test_values action="INSERT_OR_UPDATE">
+        <macroponent_config>{
+    "5865e308432021105571609dc7b8f23b": {
+        "columnLimit": 0,
+        "listId": null,
+        "rowLimit": null,
+        "table": "task"
+    },
+    "table": "x_58872_needit_needit",
+    "listTitle": "Open NeedIts",
+    "query": "stateNOT IN3",
+    "listView": "Experience_list"
+}</macroponent_config>
+        <screen display_value="Simple List">9c6c8eb547aa02106678c88bd36d431c</screen>
+        <sys_class_name>sys_uib_screen_test_values</sys_class_name>
+        <sys_created_by>narippon@outlook.com</sys_created_by>
+        <sys_created_on>2024-06-03 07:47:21</sys_created_on>
+        <sys_id>6c6c8eb547aa02106678c88bd36d431f</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_uib_screen_test_values_6c6c8eb547aa02106678c88bd36d431f</sys_update_name>
+        <sys_updated_by>narippon@outlook.com</sys_updated_by>
+        <sys_updated_on>2024-06-03 08:03:10</sys_updated_on>
+    </sys_uib_screen_test_values>
+</record_update>
